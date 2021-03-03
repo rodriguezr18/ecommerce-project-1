@@ -283,7 +283,7 @@ i {
         margin-right: 100px;
     }
     .trending-albums {
-        display: block;
+        /* display: block; */
         height: 2000px;
     }
     .button {

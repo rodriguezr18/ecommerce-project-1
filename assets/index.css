@@ -1,6 +1,4 @@
 
-
-
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 * {
     padding: 0px;
@@ -225,7 +223,6 @@ i {
         margin: 0px;
     }
     .trending {
-        width: 100%;
         margin-top: 50px;
         margin-bottom: 50px;
         font-size: 75px;
@@ -241,13 +238,13 @@ i {
         margin-right: 100px;
     }
     .trending-albums {
-        /* display: block; */
+        display: block;
         height: 2000px;
     }
     .button {
         width: 10vw;
         height: 3vh;
-        margin: 0 auto;
+        margin-left: 770px;
         margin-bottom: 60px;
         border-radius: 20px;
     }
